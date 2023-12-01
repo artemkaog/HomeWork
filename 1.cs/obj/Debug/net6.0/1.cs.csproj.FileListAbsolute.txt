@@ -1,0 +1,15 @@
+/Users/natalia/Desktop/hw1/1.cs/bin/Debug/net6.0/1.cs
+/Users/natalia/Desktop/hw1/1.cs/bin/Debug/net6.0/1.cs.deps.json
+/Users/natalia/Desktop/hw1/1.cs/bin/Debug/net6.0/1.cs.runtimeconfig.json
+/Users/natalia/Desktop/hw1/1.cs/bin/Debug/net6.0/1.cs.dll
+/Users/natalia/Desktop/hw1/1.cs/bin/Debug/net6.0/1.cs.pdb
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.csproj.AssemblyReference.cache
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.AssemblyInfoInputs.cache
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.AssemblyInfo.cs
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.csproj.CoreCompileInputs.cache
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.dll
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/refint/1.cs.dll
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.pdb
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/1.cs.genruntimeconfig.cache
+/Users/natalia/Desktop/hw1/1.cs/obj/Debug/net6.0/ref/1.cs.dll
